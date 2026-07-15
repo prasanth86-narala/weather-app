@@ -17,27 +17,6 @@ A premium, glassmorphism-styled weather app with live forecasts, geolocation sup
 - 🎨 **Ambient mood colors** — accent colors shift based on current weather conditions
 - 💎 **Glassmorphism UI** — modern frosted-glass design with smooth loading/error/empty states
 
-## Demo
-
-![Weather Dashboard Preview](preview.png)
-
-*(Add a screenshot of the app here)*
-
-## Tech Stack
-
-- **HTML5** — semantic markup
-- **CSS3** — custom properties, glassmorphism effects, responsive layout
-- **JavaScript (Vanilla)** — no frameworks or build tools
-- **[OpenWeather API](https://openweathermap.org/api)** — current weather & 5-day/3-hour forecast data
-- **Google Fonts** — Space Grotesk, Inter, JetBrains Mono
-- **LocalStorage** — for theme preference and recent searches
-
-## Getting Started
-
-### Prerequisites
-
-- A free [OpenWeather API key](https://home.openweathermap.org/users/sign_up)
-- Any static file server (e.g. VS Code Live Server, or Python's built-in server)
 
 ### Installation
 
@@ -87,6 +66,3 @@ weather-dashboard/
 
 Data provided by [OpenWeather](https://openweathermap.org/). Built for portfolio and learning purposes.
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
